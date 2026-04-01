@@ -7,7 +7,7 @@ Internship Data Engineer
 Computer Science student with a backend development background, recently growing strong interest in data engineering and data pipelines. Currently seeking an internship opportunity in this field.
 
 * 🌍  I'm based in Songkhla Thailand
-* ✉️  You can contact me at [contect.fahad.s@gmail.com](mailto:contect.fahad.s@gmail.com)
+* ✉️  You can contact me at [contact.fahad.s@gmail.com](mailto:contect.fahad.s@gmail.com)
 * 🧠  I'm currently learning Apache Airflow and Amazon Web Services (AWS)
 
 <p align="left">
